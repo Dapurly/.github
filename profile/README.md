@@ -1,5 +1,5 @@
 # Dapurly
-Menu makan tanpa ribet!
+Tired of the daily "what's for dinner?" dilemma? Dapurly is here to help! Our app, inspired by a survey of 205 respondents, addresses the common challenges of meal planning.
 
 ## Team ID
 CH2-PS435
